@@ -120,5 +120,6 @@ module.exports = {
 ```
 
 12. Run the command `npm start` to test.
-
+![alt text](https://github.com/noobe/learning-react-packages/blob/main/images/01.png?raw=true)
 13. Run the command `npm run build` to build the production version of the HTML/CSS/JS files as per the webpack output spec.
+![alt text](https://github.com/noobe/learning-react-packages/blob/main/images/02.png?raw=true)
