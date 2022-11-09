@@ -120,3 +120,5 @@ module.exports = {
 ```
 
 12. Run the command `npm start` to test.
+
+13. Run the command `npm run build` to build the production version of the HTML/CSS/JS files as per the webpack output spec.
