@@ -1,7 +1,7 @@
 # learning-react-packages
 A project to test various packages used in React
 
-## Steps:
+## Setting up a minimal React project:
 01. Setting up the project
 Run `npm init -y` to create a new npm project. This results in creationg of a `package.json` file.
 
